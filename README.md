@@ -15,31 +15,30 @@ merchant Bitcoin setup, and technical support.
 
 **QA & Support**
 
-![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Intercom](https://img.shields.io/badge/Intercom-6AFDEF?style=for-the-badge&logo=intercom&logoColor=black)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![QA Dashboard](https://img.shields.io/badge/QA_Dashboard-111827?style=for-the-badge&logo=github&logoColor=white)
+[![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)](https://asana.com/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
+[![Intercom](https://img.shields.io/badge/Intercom-6AFDEF?style=for-the-badge&logo=intercom&logoColor=black)](https://www.intercom.com/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theDavidCoen)
+[![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios/)
+[![QA Dashboard](https://img.shields.io/badge/QA_Dashboard-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theDavidCoen/QADashboard)
 
 **Bitcoin & Lightning**
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Lightning Network](https://img.shields.io/badge/Lightning_Network-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
-![BTCPay Server](https://img.shields.io/badge/BTCPay_Server-51B13E?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=for-the-badge&logo=nostr&logoColor=white)
-![Arkade](https://img.shields.io/badge/Arkade-111827?style=for-the-badge&logo=bitcoin&logoColor=F7931A)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org/)
+[![Lightning Network](https://img.shields.io/badge/Lightning_Network-792EE5?style=for-the-badge&logo=lightning&logoColor=white)](https://lightning.network/)
+[![BTCPay Server](https://img.shields.io/badge/BTCPay_Server-51B13E?style=for-the-badge&logo=bitcoin&logoColor=white)](https://btcpay.davidcoen.it/)
+[![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=for-the-badge&logo=nostr&logoColor=white)](https://nostr.davidcoen.it/)
+[![Arkade](https://img.shields.io/badge/Arkade-111827?style=for-the-badge&logo=bitcoin&logoColor=F7931A)](https://arkadeos.com/)
 
 **Infrastructure**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.org/)
 
 ---
 
